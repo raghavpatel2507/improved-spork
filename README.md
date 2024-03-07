@@ -1,4 +1,9 @@
-# POTATO DISEASE CLASSIFICATION END TO END PROJECT
+# End To End Potato Disease Classification --Agrination
+
+# how to run?
+```bash
+https://github.com/raghavpatel2507/potato-disease-classification.git
+```
 
 # Website Page
 
